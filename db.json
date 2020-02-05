@@ -21,8 +21,26 @@
     {
       "id": 4,
       "name": "Gidorah",
-      "power": "Lightning breath",
+      "power": "Lightning Breath",
       "image": "https://i.ebayimg.com/images/g/kskAAOSwp2VdldA4/s-l640.jpg"
+    },
+    {
+      "name": "Binky Galligan",
+      "power": "Whining",
+      "image": "https://lh3.googleusercontent.com/K9NVnjHlNqRCNoBZere_gPrVxSLdwKFFeiw1gu8rvH4e2dHtj5bor9N93dCBBUbw1Bcequ0LNmQX720_FQFaHdjlEq8os_Po6WVAFv-VksYGw199lwK05QiFcqwJfxJ86RAo5dMIBVOZ2jZPJFzpytee-PnXE-QJZYYoLQ7kJgR8UBQXRz45jneKzsxfVDDwqUCPoaAiOc8vuvPTMhhnCoezlm-iO1h0riGA17sC7USUhJTV7LC5q5ZBhDH9NcXs3mqCIrzU6Vpz2G5RwPXqXfbvBQPuQ61lvmNkpwALYJ9V6RgwVBYeXfQnRUuV-qlJ7WmMGPK0FdggNGZTqYacAfICMqFWld2oAgd35xnqMFy9VzXJoLF3S2Lovhkh0LtYgER2JeZaoIFRoL1MGpUPN4v3K_xvNaqgsagC9M-XEmAvKzI7b6JR4fGYwE_XdjJZOl4tLt4Nco46E1f268t-V95aukFKRREuLW_BQ4CGh4pwZbSl8x_cv2aZvoWvKCV4Y3jsrUSs4udk6XsgMOJ-hkhwbgM1xFX81ZZqNQaPYOnJiFieX8TJ3xz5R8wjpuStEYKGLFRR8XLV_C7MZ_WvM50N59OT9RJyVa1nhhPYxbIMe4GzKS2GyP1PSiczA7_XFZS0zBvaKQzPBaQCTu-OfwTVnBjQ2lYig3qa7wUsgz0qUObEjXh4BfM=w1078-h1436-no",
+      "id": 5
+    },
+    {
+      "name": "Binky Galligan",
+      "power": "Staring out the window",
+      "image": "https://lh3.googleusercontent.com/nBq4HPpsY9oNRzoP971eYnS6X7JvvYy_o72dL6GYqcRSKuVDX1ouE2U_-VPQ31iJB0yHma1J31CmbCkjV2RCIqp_X5MSfftysGudjHLfIU9SyGlF0SQu53n0L8d_4-hDdtA9SWFvqN61tQBBwyW_X68cGft8qqw2nt4NLvdEjiP5Xwe7Yiu39HnmLVztmT-sigCXzTOQpQYLPTG--tASxCGBiPNng1fVhlmQwQM2Q2COVjlEaM6aP8i28y9gQHFwC-0wI8pGWgReg7ZglS8mqTnlAwZLQPHROs5m4KDOxm314-x_Mnvpy9auNICEQikpbFgp_NPyK_pTCZMlYJSsynME9InEPohOLmS2IgBtk7jeyWvvB994RfWTw2gUDvtr_E_22c5--UKz7Hrrc3lxw7-2QloNpDMxw92e1XUO0B5IID3w-JF_aQEaPJc5F9RRIE01kI-sbLqevNLNoPCu-EgVSbiZlpY7L7efUwyk1IYO3chMHusIny_AtYSgvDterTlR7AqvqMU-7yJDpDkJrQkcpXKZMAXLerGIHBFprHJ3Z5pZBO-167gr_CIV6wanzGeX-CptiC1DjMcPMCuIcS2dCDj41FFn77mIptz5hfyZPuGfZnVOpsa3LX7xHUpzZjG54pOB7Lndr9M-rpjUI0qdVUKzIfx4PjExZL9lqs_s7lBcK3QiwOE=w1078-h1436-no",
+      "id": 7
+    },
+    {
+      "name": "Binky",
+      "power": "Peeing on Christmas Trees",
+      "image": "https://lh3.googleusercontent.com/IoklW9GsLsCoOCWBREki8-upGpG6hg0nS7AhoVT-ev9eKWNzU_YIoWg2WL52neLdVgaeO31mpCrSrk8hMZ4bI30fGcnEz-z8WLoKuB-0M_Hzq-W6-ZF579KRwnGuIg1bVTLeuee0tThSdHUtxiFa3CTrKMXiDFz1wGaBKJenji29jz93qh8bx5et_jrrMoXX2tQiqIj6q7ElSF5JE94TkOKKirmRdep5KvnhP6sCrIz2ifpTiHXiWBnPYnMRQkBIqsW7Cdxu0i6GhgxrfEl-YpyI_QezVn4NHttRt4gxIlZSERINV8PUvc91pATq3m99yY4tHKfllSYGJ5VTYf0G3KmDMkJvW0e63cAfAsh6i4itNOq7rj4MLWwm7xnCRsNAp-gRRW4M8D3BQ_2DqlOXmsiteJtqmGPo0C3nRzYPK4V-o3CIo7r13o3fbU-auP-aOFjdCHZ9ocV6jDdxTaWxSigWaqSpJejrtGoSWKH9gZCOR6kFQZlJXpP_hcnZME2IAMTlo-dFjszomn7RobWDL_BCsev-YNmIye0t5dOM3Ek54ITADqQsGI6SaBOKVtI_6itZaycTvlOotJpbeI6QJ0vdi5cI_5fmQ_ssdEiZQSXIIEenp0GB0GmfVnQZqd6XbhARW5Q9s_kHMMLRlOeb5Fc1lf7LNY06H5mbnLjX_0F4fechCzddqP0=w1916-h1436-no",
+      "id": 8
     }
   ],
   "sightings": [

@@ -14,15 +14,54 @@ class KaijuContainer extends React.Component {
     kaijus: []
   }
 
+  componentDidMount() {
+     requests.fetchKaijus()
+    .then(kaijusData => this.setState({
+      kaijus: kaijusData
+    })
+    )
+  }
+
+  addKaijuToState = (newKaiju) => {
+    this.setState({
+      kaijus: [...this.state.kaijus, newKaiju]
+    })
+  }
+
+  
+  updateKaijuInState = (updatedKaiju) => {
+
+    let newKaijuArray = this.state.kaijus.map(kaiju => {
+
+      if (kaiju.id === updatedKaiju.id) {
+        kaiju = updatedKaiju
+      }
+      return kaiju
+    })
+      this.setState({
+        kaijus: newKaijuArray
+      })
+  }
+
+  
   render() {
+    
+    let displayedKaijus = this.state.kaijus.map(kaiju =>
+      <KaijuCard 
+      {...kaiju}
+      updateKaijuInState = {this.updateKaijuInState}
+      key={kaiju.id}
+      />)
+  
+
     return (
       <>
 
-        <CreateKaijuForm />
+        <CreateKaijuForm addKaijuToState={this.addKaijuToState}/>
 
         <div id='kaiju-container'>
 
-          {/* Kaiju cards should go in here! */}
+          {displayedKaijus}
 
         </div>
 

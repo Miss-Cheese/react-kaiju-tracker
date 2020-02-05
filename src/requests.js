@@ -19,6 +19,7 @@ export const fetchKaijus = () => fetch(kaijusURL)
 // TODO: define a few more kaiju fetches
 
 //////////////////////////////////////////////////////
+// fetch POST request here?
 
 // Fetches for sightings, will return a promise
 // GET /sightings
